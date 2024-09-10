@@ -74,5 +74,8 @@ dependencies {
     // coil
     implementation("io.coil-kt:coil-compose:2.7.0")
 
+    // instalação da dependencia de navegação
+    implementation("androidx.navigation:navigation-compose:2.7.7")
+
 
 }
